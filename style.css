@@ -1,0 +1,21 @@
+body {
+  font-size: 1.5rem;
+}
+
+#canvas1 {
+  border: 1px solid #000;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  height: 500px;
+}
+
+.controls {
+  position: absolute;
+  z-index: 1;
+  top: 3rem;
+  left: 50%;
+  transform: translateX(-50%);
+}
