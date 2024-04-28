@@ -1,5 +1,3 @@
-- Nota: Ainda precisa de alterações para funcionar perfeitamente no mobile.
-
 # Sprite Animation
 
 Sistema para animações de sprites.
